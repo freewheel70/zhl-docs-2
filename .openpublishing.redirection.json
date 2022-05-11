@@ -2,7 +2,7 @@
     "redirections": [
         {
             "source_path": "ds1-2/missing.md",
-            "redirect_url": "ds1-2/shanghai"
+            "redirect_url": "shanghai"
         }
     ]
 }
