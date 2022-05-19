@@ -1,0 +1,10 @@
+### YamlMime:Event
+
+uid: zhl-docs-2-event
+title: Testing Event from zhl-docs-2
+description: Testing schema content with uid
+startDate: 2022-05-19T08:30:00Z
+endDate: 2022-06-19T08:30:00Z
+location:
+  type: VirtualLocation 
+  url: https://mybuild.microsoft.com/
