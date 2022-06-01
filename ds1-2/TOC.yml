@@ -2,5 +2,9 @@
   href: index.md
 - name: Shanghai
   href: shanghai.md
+- name: Xiamen
+  href: xiamen.md  
+- name: Event
+  href: event  
 - name: Missing
   href: missing.md  

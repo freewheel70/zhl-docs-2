@@ -1,5 +1,4 @@
 ---
 title: xiamen
-uid: xiamen
 ---
-Hello Xiamen!
+Hello Xiamen 0601!
