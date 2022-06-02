@@ -1,9 +1,9 @@
 ### YamlMime:Event
 
 uid: zhl-docs-2-event
-title: Testing Event 0601 from zhl-docs-2
-description: Testing 0601 schema content freedom
-startDate: 2022-06-01T08:30:00Z
+title: Testing Event 0602 from zhl-docs-2
+description: Testing 0602 schema content freedom
+startDate: 2022-06-02T08:30:00Z
 endDate: 2022-06-26T08:30:00Z
 location:
   type: VirtualLocation 
