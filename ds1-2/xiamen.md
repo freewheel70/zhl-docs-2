@@ -1,6 +1,7 @@
 ---
-
+title: Xiamen615
+author: zhihongli
 ---
-Hello Xiamen 0601!
+# Hello Xiamen 0615!
 
-delete title to produce warning 
+recover title 
