@@ -5,10 +5,10 @@
 - name: Xiamen
   href: xiamen.md  
 - name: Event
-  href: event1
+  href: event1.yml
 - name: Somewhere1
-  href: somewhere1
+  href: somewhere1.md
 - name: Somewhere2
-  href: somewhere2  
+  href: somewhere2.md
 - name: Missing
   href: missing.md  
