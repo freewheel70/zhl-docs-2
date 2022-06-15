@@ -1,5 +1,4 @@
 ---
-title: Shanghai
 author: zhihongli
 description: hello shanghai 2022
 uid: zhl-docs-2-shanghai
@@ -12,3 +11,5 @@ Shanghai is one of the four direct-administered municipalities of the People's R
 Welcome to Shanghai. 20220602 have a nice day.
 
 update from forked repo 
+
+6/15/2022 introduce some warning
