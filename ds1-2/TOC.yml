@@ -5,6 +5,10 @@
 - name: Xiamen
   href: xiamen.md  
 - name: Event
-  href: event  
+  href: event1
+- name: Somewhere1
+  href: somewhere1
+- name: Somewhere2
+  href: somewhere2  
 - name: Missing
   href: missing.md  
