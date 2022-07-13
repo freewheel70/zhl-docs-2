@@ -3,6 +3,9 @@ title: Shanghai
 author: zhihongli
 description: hello shanghai 2022
 uid: zhl-docs-2-shanghai
+ms.search.industry: Retail
+audience: Application User, Developer
+ms.search.region: Belgium, Norway, Sweden, Switzerland
 ---
 # Shanghai
 Hello Shanghai!
